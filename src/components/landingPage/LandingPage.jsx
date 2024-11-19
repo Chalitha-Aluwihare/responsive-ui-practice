@@ -61,19 +61,19 @@ export const LandingPage = () => {
     {/* 3rd section */}
 
     <div className='grid m-2 gap-2 sm:grid-cols-12 grid-cols-1'>
-        <div className='bg-purple-400 rounded-lg sm:col-span-3 min-h-[600px] hidden sm:block sm:flex items-center justify-center'>
+        <div className='bg-purple-400 rounded-lg sm:col-span-3 min-h-[600px] hidden sm:flex items-center justify-center'>
             <h1 className='text-white font-bold'>
-                Box 07
+                Box 08
             </h1>
         </div>
         <div className='bg-purple-500 rounded-lg sm:col-span-6 min-h-[600px] flex items-center justify-center'>
             <h1 className='text-white font-bold'>
-                Box 07
+                Box 09
             </h1>
         </div>
-        <div className='bg-purple-600 rounded-lg sm:col-span-3 min-h-[600px] hidden sm:block sm:flex items-center justify-center'>
+        <div className='bg-purple-600 rounded-lg sm:col-span-3 min-h-[600px] hidden sm:flex items-center justify-center'>
             <h1 className='text-white font-bold'>
-                Box 07
+                Box 10
             </h1>
         </div>
     </div>
